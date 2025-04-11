@@ -1,3 +1,4 @@
+require 'em/pure_ruby'
 source 'https://rubygems.org'
 
 group :jekyll_plugins do
