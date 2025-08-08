@@ -12,6 +12,15 @@ My name is Chengfeng Pu and I am an undergraduate student at Tsinghua University
 
 ## Research
 
-<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) -->
-<!-- Example: editing a markdown file for a talk -->
-<!-- ![Editing a markdown file for a talk](/images/editing-talk.png) -->
+
+### Unirig
+
+title: One Model to Rig Them All: Diverse Skeleton Rigging with UniRig
+
+authors: Zhang, Jia-Peng and Pu, Cheng-Feng and Guo, Meng-Hao and Cao, Yan-Pei and Hu, Shi-Min
+
+publish date: 2025-04-16
+
+github repo: [UniRig](https://github.com/VAST-AI-Research/UniRig)
+
+paper link: [https://arxiv.org/pdf/2504.12451](https://arxiv.org/pdf/2504.12451)
